@@ -1,13 +1,13 @@
 +++
 title = "About me"
 draft = false
+image = "logo_small_icon_only.png"
 description = ""
-image = ""
 +++
-![](/img/default-author.jpg)
+![](logo_small_icon_only.png)
 
-## My Name
+## Leandro Paulino
 
-mail@example.org
+## lpaulinodellsperger@gmail.com
 
 Here should be some info about me...
