@@ -24,4 +24,4 @@ C﻿SS - *Cascading style sheets -* oder auf deutsch Mehrstufige Formatvorlagen,
 
 M﻿ein derzeitiges Projekt ist es, eine Internetseite mit **Visual Studio Code** zu programmieren. Da ich die App schon hatte musste ich nur noch ein PlugIn isntallieren welche es mir erlaubt meine Webseite direkt anzuschauen. Danach gab ich den Befehl "**!**" ein, welcher sofort ein Anfangsgrundgerüst erstellt. Dieses gibt etwas Sicherheit damit man nichts essenzielles vergisst.
 
-M﻿ein Ziel mit dieser Webseite ist es sie mit dem anderen Auftrag zu verknüpfen. Das heisst ich erstelle eine Webseite für PowerBag Official zu erstellen.
+M﻿ein Ziel mit dieser Webseite ist es sie mit dem anderen Auftrag zu verknüpfen. Das heisst ich erstelle eine Webseite für PowerBag Official.
